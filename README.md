@@ -7,3 +7,5 @@ Make sure Django is installed on your virtual environment or your system.
 
 ## Screenshot
 ![screenshot](https://i.ibb.co/sgF0QTM/Screenshot-25.png)
+# django-aws-app-runner
+# django-aws-app-runner
